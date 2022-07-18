@@ -1,1 +1,3 @@
-// this is an extension
+/**
+ * this is an extension
+ */
